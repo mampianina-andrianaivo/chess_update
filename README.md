@@ -1,2 +1,3 @@
 # chess_update
-So, i updated the Chess.. with low and high fields
+So, i updated the Chess.. with low and high fields.
+Sorry if you find some buugggs... and french words...
